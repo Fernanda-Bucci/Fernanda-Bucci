@@ -1,8 +1,7 @@
 ### Olá! Eu sou a Fernanda Bucci, 👋 ...
 
 - 🔭 Atualmente estudando HTML, CSS, JavaScript e JAVA ...
-- 🌱 
-- 😄 Pronouns: ELA/DELA
+- 🌱  😄 
 
 <div>
   <img align="center" alt="Fernanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
