@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Fernanda Bucci, 👋 ...
 
-- 🔭 Atualmente estudando HTML, CSS, JavaScript, JAVA e Kotlin ...
+- 🔭 
 - 🌱  😄 
 
 <div>
